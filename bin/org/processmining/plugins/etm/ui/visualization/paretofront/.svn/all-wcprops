@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/27060/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront
+END
+LiveETMParetoVisualization.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/prom/!svn/ver/27060/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/LiveETMParetoVisualization.java
+END
+AbstractParetoFrontNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repos/prom/!svn/ver/10046/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/AbstractParetoFrontNavigator.java
+END
+GenericDotPlotChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/prom/!svn/ver/10225/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/GenericDotPlotChart.java
+END
+GenerationSeriesPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/10289/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/GenerationSeriesPlot.java
+END
+TimeSeriesPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/prom/!svn/ver/10289/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/TimeSeriesPlot.java
+END
+SpiderChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/prom/!svn/ver/10061/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/SpiderChart.java
+END
+TwoDimDotPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/10225/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/TwoDimDotPlot.java
+END
+ParetoVisualization.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/prom/!svn/ver/27060/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/ParetoVisualization.java
+END
+JFreeChartCustomThemes.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/prom/!svn/ver/10090/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/JFreeChartCustomThemes.java
+END
+GridDotPlots.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/prom/!svn/ver/10046/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/GridDotPlots.java
+END
+TimePerGenerationPlot.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/10289/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/TimePerGenerationPlot.java
+END
+DotPlotWithHeatMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/prom/!svn/ver/10221/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/DotPlotWithHeatMap.java
+END
+ParetoFrontDimensionNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/prom/!svn/ver/10225/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/ParetoFrontDimensionNavigator.java
+END
+AbstractParetoFrontChartNavigator.java
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repos/prom/!svn/ver/10061/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/AbstractParetoFrontChartNavigator.java
+END
+DimensionBarChart.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/10061/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/visualization/paretofront/DimensionBarChart.java
+END

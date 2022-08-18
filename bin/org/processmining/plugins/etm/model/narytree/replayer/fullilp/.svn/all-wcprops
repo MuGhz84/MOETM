@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/23650/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/fullilp
+END
+NAryTreeReplayerWithFullILP.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/prom/!svn/ver/10845/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/fullilp/NAryTreeReplayerWithFullILP.java
+END
+NAryTreeFullILPTailCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/repos/prom/!svn/ver/8281/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/fullilp/NAryTreeFullILPTailCompressor.java
+END
+NAryTreeFullILPTail.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/prom/!svn/ver/10732/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/fullilp/NAryTreeFullILPTail.java
+END
+NAryTreeFullILPDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/prom/!svn/ver/23650/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/fullilp/NAryTreeFullILPDelegate.java
+END

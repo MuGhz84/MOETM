@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/prom/!svn/ver/16989/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib
+END
+xmlParserAPIs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/xmlParserAPIs.jar
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/xercesImpl.jar
+END
+XERCES.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/XERCES.LICENSE
+END
+BOUNCYCASTLE.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/BOUNCYCASTLE.LICENSE
+END
+COMMONS.LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/COMMONS.LICENSE
+END
+jce-jdk13-119.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/prom/!svn/ver/11730/Packages/EvolutionaryTreeMiner/Trunk/lib/j2ssh/lib/jce-jdk13-119.jar
+END

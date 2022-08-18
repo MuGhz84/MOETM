@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/EvolutionaryTreeMiner/src/org/processmining/plugins/etm/tests/InductiveHybridMiner.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.processmining.plugins.etm.tests.InductiveHybridMiner"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="EvolutionaryTreeMiner"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea -Djava.library.path=.//lib;.//locallib//win64;.//stdlib -Xmx4G  -XX:+UseCompressedOops"/>
+</launchConfiguration>

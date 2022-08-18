@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework
+END
+TerminationCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/TerminationCondition.java
+END
+GenerationalEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/GenerationalEvolutionEngine.java
+END
+CandidateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/CandidateFactory.java
+END
+EvolutionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvolutionUtils.java
+END
+EvaluatedCandidate.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvaluatedCandidate.java
+END
+SelectionStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/SelectionStrategy.java
+END
+FitnessEvalutationTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/FitnessEvalutationTask.java
+END
+EvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvolutionEngine.java
+END
+CachingFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/CachingFitnessEvaluator.java
+END
+EvolutionaryOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvolutionaryOperator.java
+END
+PopulationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/PopulationData.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/package-info.java
+END
+SteadyStateEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/SteadyStateEvolutionEngine.java
+END
+NullFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/NullFitnessEvaluator.java
+END
+EvolutionObserver.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvolutionObserver.java
+END
+FitnessEvaluationWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/FitnessEvaluationWorker.java
+END
+EvolutionStrategyEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/EvolutionStrategyEngine.java
+END
+FitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/FitnessEvaluator.java
+END
+AbstractEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/AbstractEvolutionEngine.java
+END

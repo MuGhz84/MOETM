@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/prom/!svn/ver/37996/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm
+END
+ETMPareto.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/prom/!svn/ver/10090/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ETMPareto.java
+END
+CentralRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/CentralRegistry.java
+END
+CentralRegistryConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/13181/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/CentralRegistryConfigurable.java
+END
+ETM.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ETM.java
+END
+ETMAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ETMAbstract.java
+END

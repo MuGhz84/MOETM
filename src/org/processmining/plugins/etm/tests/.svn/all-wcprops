@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/prom/!svn/ver/37474/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests
+END
+EditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/prom/!svn/ver/13396/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/EditDistanceTest.java
+END
+MinimalExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/37474/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/MinimalExample.java
+END
+LogUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/prom/!svn/ver/16273/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/LogUtilsTest.java
+END
+TestTreeFitnessGenericDeepClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/9976/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/TestTreeFitnessGenericDeepClone.java
+END
+ParameterInstantiationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/prom/!svn/ver/11862/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/ParameterInstantiationTests.java
+END
+AlfredoBugTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/20489/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/AlfredoBugTest.java
+END
+PTConversionTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/12978/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/PTConversionTests.java
+END
+TranslationsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/prom/!svn/ver/14015/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/TranslationsTest.java
+END
+TreeFitnessComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/TreeFitnessComparatorTest.java
+END
+PrecisionOperatorCostTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/9546/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/PrecisionOperatorCostTests.java
+END
+MutationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/prom/!svn/ver/10090/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/MutationTests.java
+END
+TreeDotCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/prom/!svn/ver/9611/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/TreeDotCreator.java
+END
+TreeEvaluationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/32741/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/TreeEvaluationTest.java
+END
+InductiveHybridMiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/InductiveHybridMiner.java
+END
+ConfigurationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/13385/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/tests/ConfigurationTests.java
+END

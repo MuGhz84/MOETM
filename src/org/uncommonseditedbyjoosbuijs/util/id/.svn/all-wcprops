@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id
+END
+CompositeIDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/CompositeIDSource.java
+END
+IntSequenceIDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/IntSequenceIDSource.java
+END
+StringPrefixIDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/StringPrefixIDSource.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/package-info.java
+END
+LongSequenceIDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/LongSequenceIDSource.java
+END
+IDSourceExhaustedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/IDSourceExhaustedException.java
+END
+IDSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/util/id/IDSource.java
+END

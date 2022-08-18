@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection
+END
+RankSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/RankSelection.java
+END
+SigmaScaling.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/SigmaScaling.java
+END
+TournamentSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/TournamentSelection.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/package-info.java
+END
+StochasticUniversalSampling.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/StochasticUniversalSampling.java
+END
+TruncationSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/TruncationSelection.java
+END
+RouletteWheelSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/selection/RouletteWheelSelection.java
+END

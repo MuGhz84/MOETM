@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/prom/!svn/ver/35628/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins
+END
+ETMParetoLivePlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/23650/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/ETMParetoLivePlugin.java
+END
+ETMParetoPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/23564/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/ETMParetoPlugin.java
+END
+ETMPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/27902/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/ETMPlugin.java
+END
+PTQualityCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/28260/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/PTQualityCalculator.java
+END
+ETMConfigurableTreesPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/ETMConfigurableTreesPlugin.java
+END
+TestReuseAlignWithLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/35628/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/TestReuseAlignWithLog.java
+END
+ETMwithoutGUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/23564/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/ETMwithoutGUI.java
+END
+TestReuseAlign.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/35628/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/plugins/TestReuseAlign.java
+END

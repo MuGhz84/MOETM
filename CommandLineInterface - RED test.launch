@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/EvolutionaryTreeMiner/src/org/processmining/plugins/etm/experiments/CommandLineInterface.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="com.yourkit.profiler.launchGroup"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.processmining.plugins.etm.experiments.CommandLineInterface"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="RED &quot;E:\ETMlocalLogs&quot; Fr=10 Pe=5 Sm=1 Gv=.1 Ed=5 maxGen=100 popSize=20 eliteSize=4 limitFTime=1000 randomMutRatio=0.25 maikel=true IMfactoryWeight=0  expDate=&quot;14-03-24_14:16&quot; expCode=TEST_green expDesc=&quot;test of the green method via CLI&quot;&#13;&#10;log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\Small things\000Simple test logs\Published\ETM_Configuration1.xes.gz&quot;&#13;&#10;log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\Small things\000Simple test logs\Published\ETM_Configuration2_withG.xes&quot;&#13;&#10;log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\Small things\000Simple test logs\Published\ETM_Configuration3.xes.gz&quot;&#13;&#10;log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\Small things\000Simple test logs\Published\ETM_Configuration4.xes.gz&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="EvolutionaryTreeMiner"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea -Djava.library.path=.//lib;.//lib//64bit;.//stdlib -Xmx4G  -XX:+UseCompressedOops"/>
+<stringAttribute key="yk-options" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;startup=14&#13;&#10;"/>
+</launchConfiguration>

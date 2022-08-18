@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators
+END
+Replacement.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/Replacement.java
+END
+IntArrayCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/IntArrayCrossover.java
+END
+SplitEvolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/SplitEvolution.java
+END
+IdentityOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/IdentityOperator.java
+END
+ListInversion.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ListInversion.java
+END
+ByteArrayCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ByteArrayCrossover.java
+END
+AbstractCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/AbstractCrossover.java
+END
+EvolutionPipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/EvolutionPipeline.java
+END
+ObjectArrayCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ObjectArrayCrossover.java
+END
+BitStringCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/BitStringCrossover.java
+END
+StringCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/StringCrossover.java
+END
+ListOrderCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ListOrderCrossover.java
+END
+DoubleArrayCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/DoubleArrayCrossover.java
+END
+ListCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ListCrossover.java
+END
+CharArrayCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/CharArrayCrossover.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/package-info.java
+END
+BitStringMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/BitStringMutation.java
+END
+ListOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ListOperator.java
+END
+StringMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/StringMutation.java
+END
+ListOrderMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/operators/ListOrderMutation.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/23650/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/hybridilp
+END
+NAryTreeReplayerWithHybridILP.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/prom/!svn/ver/10845/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/hybridilp/NAryTreeReplayerWithHybridILP.java
+END
+NAryTreeHybridILPTailCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/prom/!svn/ver/10888/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/hybridilp/NAryTreeHybridILPTailCompressor.java
+END
+NAryTreeHybridILPTail.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/prom/!svn/ver/10857/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/hybridilp/NAryTreeHybridILPTail.java
+END
+NAryTreeHybridILPDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/prom/!svn/ver/23650/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/hybridilp/NAryTreeHybridILPDelegate.java
+END

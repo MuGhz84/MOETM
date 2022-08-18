@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics
+END
+OverallFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/13400/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/OverallFitness.java
+END
+SimplicityTreeSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/prom/!svn/ver/28103/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityTreeSize.java
+END
+ConfigurationFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/16274/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/ConfigurationFitness.java
+END
+SimplicityOperatorAlternation.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityOperatorAlternation.java
+END
+PrecisionEscEdgesImproved.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/PrecisionEscEdgesImproved.java
+END
+PrecisionFlowerSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/PrecisionFlowerSize.java
+END
+GeneralizationRinooyKan.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/GeneralizationRinooyKan.java
+END
+SimplicityMaxTreeSize.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/28103/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityMaxTreeSize.java
+END
+PrecisionPerNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/PrecisionPerNode.java
+END
+ParetoFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/ParetoFitnessEvaluator.java
+END
+EditDistanceWrapperPQGram.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/EditDistanceWrapperPQGram.java
+END
+MultiThreadedFitnessEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/11225/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/MultiThreadedFitnessEvaluator.java
+END
+Generalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/Generalization.java
+END
+EditDistanceWrapperRTEDRelative.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/prom/!svn/ver/13396/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/EditDistanceWrapperRTEDRelative.java
+END
+SimplicityMixed.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityMixed.java
+END
+EditDistanceWrapperRTEDAbsolute.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/prom/!svn/ver/13459/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/EditDistanceWrapperRTEDAbsolute.java
+END
+GeneralizationByFitnessReplayDeviation.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/prom/!svn/ver/14056/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/GeneralizationByFitnessReplayDeviation.java
+END
+FitnessReplayConfidenceLevelsWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/prom/!svn/ver/10633/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/FitnessReplayConfidenceLevelsWrapper.java
+END
+PrecisionOperatorCosts.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/PrecisionOperatorCosts.java
+END
+SimplicityUselessNodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/13218/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityUselessNodes.java
+END
+FitnessReplay.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/FitnessReplay.java
+END
+NewMetric.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/24101/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/NewMetric.java
+END
+SimplicityDuplMissingAct.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/prom/!svn/ver/10245/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/SimplicityDuplMissingAct.java
+END
+PrecisionEscEdges.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/prom/!svn/ver/16274/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/metrics/PrecisionEscEdges.java
+END

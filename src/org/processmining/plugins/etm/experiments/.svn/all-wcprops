@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments
+END
+SSHExperiments.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/14765/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/SSHExperiments.java
+END
+ExperimentSettingsAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/12413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/ExperimentSettingsAbstract.java
+END
+StandardLogs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/11698/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/StandardLogs.java
+END
+CommandLineInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/CommandLineInterface.java
+END
+PaperMethods.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/PaperMethods.java
+END
+ResultStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/14056/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/experiments/ResultStats.java
+END

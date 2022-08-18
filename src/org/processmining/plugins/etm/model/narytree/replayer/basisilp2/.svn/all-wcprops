@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/25196/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/basisilp2
+END
+NAryTreeReplayerWithBasis2ILP.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/prom/!svn/ver/12999/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/basisilp2/NAryTreeReplayerWithBasis2ILP.java
+END
+NAryTreeBasis2ILPDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/prom/!svn/ver/25196/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/basisilp2/NAryTreeBasis2ILPDelegate.java
+END

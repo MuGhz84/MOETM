@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive
+END
+Console.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive/Console.java
+END
+InteractiveSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive/InteractiveSelection.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive/package-info.java
+END
+Renderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive/Renderer.java
+END
+RendererAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/interactive/RendererAdapter.java
+END

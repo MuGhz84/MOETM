@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/package-info.java
+END
+ObjectArrayPermutationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/ObjectArrayPermutationFactory.java
+END
+AbstractCandidateFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/AbstractCandidateFactory.java
+END
+ListPermutationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/ListPermutationFactory.java
+END
+BitStringFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/BitStringFactory.java
+END
+StringFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/factories/StringFactory.java
+END

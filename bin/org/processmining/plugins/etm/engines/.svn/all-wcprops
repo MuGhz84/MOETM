@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/engines
+END
+ParetoEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/engines/ParetoEngine.java
+END
+LoggingEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/engines/LoggingEvolutionEngine.java
+END
+TreeEvolutionEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/engines/TreeEvolutionEngine.java
+END

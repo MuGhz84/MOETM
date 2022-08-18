@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/prom/!svn/ver/34710/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test
+END
+CollectData.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/CollectData.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/34710/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/Test.java
+END
+LogCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/7191/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/LogCreator.java
+END
+TestNormalization.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/7884/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/TestNormalization.java
+END
+TestTreeFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/prom/!svn/ver/8042/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/TestTreeFunctions.java
+END
+EmptyTraceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/prom/!svn/ver/11851/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/EmptyTraceTest.java
+END
+MemTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/8279/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/test/MemTest.java
+END

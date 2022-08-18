@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators
+END
+AddNodeRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/AddNodeRandom.java
+END
+MutateLeafClassGuided.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/MutateLeafClassGuided.java
+END
+MutateOperatorTypeGuided.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/MutateOperatorTypeGuided.java
+END
+PatternRewriteGuided.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/9501/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/PatternRewriteGuided.java
+END
+ConfigurationMutator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/ConfigurationMutator.java
+END
+InsertActivityGuided.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/11826/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/InsertActivityGuided.java
+END
+NormalizationMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/NormalizationMutation.java
+END
+RemoveUselessNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/RemoveUselessNode.java
+END
+MutateSingleNodeRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/MutateSingleNodeRandom.java
+END
+RemoveSubtreeRandom.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/RemoveSubtreeRandom.java
+END
+RemoveActivityGuided.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/RemoveActivityGuided.java
+END
+ReplaceTreeMutation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/16543/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/ReplaceTreeMutation.java
+END
+GraduallyConsiderMoreEventClasses.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/GraduallyConsiderMoreEventClasses.java
+END
+ShuffleCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/mutators/ShuffleCluster.java
+END

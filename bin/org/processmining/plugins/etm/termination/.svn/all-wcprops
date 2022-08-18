@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/prom/!svn/ver/16529/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/termination
+END
+TerminateAtCertainTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/termination/TerminateAtCertainTime.java
+END
+ExternalTerminationCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/termination/ExternalTerminationCondition.java
+END
+ProMCancelTerminationCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/termination/ProMCancelTerminationCondition.java
+END
+TerminateAtQDimValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/16529/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/termination/TerminateAtQDimValue.java
+END

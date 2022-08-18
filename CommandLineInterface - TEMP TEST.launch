@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/EvolutionaryTreeMiner/src/org/processmining/plugins/etm/experiments/CommandLineInterface.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="com.yourkit.profiler.launchGroup"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.JRE_CONTAINER" value="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.processmining.plugins.etm.experiments.CommandLineInterface"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="PARETO &quot;E:\ETMlocalLogs&quot; log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\PhD\Thesis\Experiments\000Event Logs\buildingPermits_receiptPhase.xes.gz&quot;  Fr=10 Pe=5 Sm=1 Gv=0.1 maxGen=10000 popSize=100 eliteSize=20 limitFTime=10 randomMutRatio=0.50 logModulo=1000 IMfactoryWeight=0  seedTree=&quot;SEQ( LEAF: t Creëren ontvangstbevestiging+complete , AND( SEQ( LOOP( LEAF: RP006 Bepalen noodzaak adviezen aanhouden+complete , OR( SEQ( LEAF: RP007-1 Opstellen intern advies aanhouden Bouw+complete , LEAF: RP007-2 Opstellen intern advies aanhouden Milieu+complete , LEAF: RP007-3 Opstellen intern advies aanhouden Gebruik+complete , LEAF: RP007-4 Opstellen intern advies aanhouden APV/Overig+complete , LEAF: RP007-5 Opstellen intern advies aanhouden Zelf+complete ) , LEAF: RP008 Opstellen en verzenden adviesaanvraag+complete ) , LEAF: tau ) , LEAF: RP010 Bepalen noodzaak indicatie aanhouden+complete , XOR( LEAF: tau , SEQ( LOOP( SEQ( LOOP( LEAF: RP012 Toetsen document 251 aanvraag vergunningvrij+complete , LEAF: RP013 Aanpassen document 251 aanvraag vergunningvrij+complete , LEAF: tau ) , LEAF: RP014 Vaststellen document 251 aanvraag vergunningvrij+complete ) , LEAF: RP013 Aanpassen document 251 aanvraag vergunningvrij+complete , LEAF: tau ) , LEAF: RP015 Uitdraaien en verzenden document 251 vergunningvrij+complete ) , SEQ( LEAF: RP016 Vastleggen aanhoudingsgronden+complete , LOOP( SEQ( LOOP( LEAF: RP017 Toetsen melding 295 indicatie aanhouden+complete , LEAF: RP018 Aanpassen melding 295 indicatie aanhouden+complete , LEAF: tau ) , LEAF: RP019 Vaststellen melding 295 indicatie aanhouden+complete ) , LEAF: RP018 Aanpassen melding 295 indicatie aanhouden+complete , LEAF: tau ) , LEAF: RP020 Uitdraaien en verzenden melding 295 aanhouden+complete ) ) ) , SEQ( LOOP( LEAF: RP004 Vaststellen ontvangstbevestiging+complete , LEAF: RP003 Aanpassen ontvangstbevestiging+complete , LEAF: tau ) , LEAF: RP005 Uitdraaien en verzenden ontvangstbevestiging+complete ) ) ) [ ]  &quot; expDate=&quot;DATE&quot; expCode=normative_buildingPerm expDesc=&quot;Normative discovery on building permits case study.&quot; frLimit=0.6 peLimit=0.6 smLimit=0.6 generationWhenLimitsAreApplied=10 limitF=0.6 PFmaxSize=100 maxGen=1000 logModulo=1"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="EvolutionaryTreeMiner"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea -Djava.library.path=.//locallib;.//locallib//win64;.//stdlib -Xmx4G  -XX:+UseCompressedOops"/>
+<stringAttribute key="yk-options" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;startup=14&#13;&#10;"/>
+</launchConfiguration>

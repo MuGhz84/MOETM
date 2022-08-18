@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prom/!svn/ver/12546/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64
+END
+liblpsolve55j.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/prom/!svn/ver/7326/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/liblpsolve55j.so
+END
+liblpsolve55jext.so
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/prom/!svn/ver/12546/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/liblpsolve55jext.so
+END
+lp_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_utils.h
+END
+liblpsolve55.a
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/7326/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/liblpsolve55.a
+END
+lp_Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_Hash.h
+END
+liblpsolve55.so
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prom/!svn/ver/7326/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/liblpsolve55.so
+END
+liblpsolve55jext-nobenchmark.so
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/prom/!svn/ver/11855/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/liblpsolve55jext-nobenchmark.so
+END
+lp_SOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_SOS.h
+END
+lp_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_matrix.h
+END
+lp_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_types.h
+END
+lp_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_lib.h
+END
+lp_mipbb.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/prom/!svn/ver/7321/Packages/EvolutionaryTreeMiner/Trunk/locallib/lin64/lp_mipbb.h
+END

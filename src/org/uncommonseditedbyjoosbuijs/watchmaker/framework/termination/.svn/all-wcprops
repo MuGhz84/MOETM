@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination
+END
+TargetFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/TargetFitness.java
+END
+GenerationCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/GenerationCount.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/package-info.java
+END
+UserAbort.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/UserAbort.java
+END
+Stagnation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/Stagnation.java
+END
+ElapsedTime.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/uncommonseditedbyjoosbuijs/watchmaker/framework/termination/ElapsedTime.java
+END

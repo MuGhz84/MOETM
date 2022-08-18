@@ -1,0 +1,19 @@
+K 13
+svn:externals
+V 58
+libs-external https://svn.win.tue.nl/repos/prom/TestSuite
+
+K 10
+svn:ignore
+V 77
+bin
+dist
+bindist
+doc
+classes
+bin-test
+bin-test-instrument
+cover-html
+*.class
+
+END

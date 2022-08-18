@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/prom/!svn/ver/37996/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/utils
+END
+LogUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/prom/!svn/ver/37996/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/utils/LogUtils.java
+END
+ETMUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/prom/!svn/ver/13375/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/utils/ETMUtils.java
+END
+SyncFileWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/utils/SyncFileWriter.java
+END

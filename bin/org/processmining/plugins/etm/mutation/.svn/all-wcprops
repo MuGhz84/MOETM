@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/prom/!svn/ver/37474/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation
+END
+TreeMutationAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeMutationAbstract.java
+END
+TreeMutationCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeMutationCoordinator.java
+END
+TreeCrossover.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeCrossover.java
+END
+GuidedTreeMutationCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/37474/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/GuidedTreeMutationCoordinator.java
+END
+TreeMutationRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeMutationRegistry.java
+END
+TreeMutationAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/9501/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeMutationAnnotation.java
+END
+TreeMutationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/mutation/TreeMutationInfo.java
+END

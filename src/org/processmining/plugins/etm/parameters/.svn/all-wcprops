@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters
+END
+ETMParamSimple.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/10602/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamSimple.java
+END
+ETMParamPareto.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamPareto.java
+END
+ETMParamParetoConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamParetoConfigurable.java
+END
+ETMParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParam.java
+END
+ETMParamConfigurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamConfigurable.java
+END
+ETMParamAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamAbstract.java
+END
+ETMParamFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/parameters/ETMParamFactory.java
+END

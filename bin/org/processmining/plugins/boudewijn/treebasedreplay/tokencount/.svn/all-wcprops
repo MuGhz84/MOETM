@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/prom/!svn/ver/7300/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/boudewijn/treebasedreplay/tokencount
+END
+AbstractTokenCountTailCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repos/prom/!svn/ver/7084/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/boudewijn/treebasedreplay/tokencount/AbstractTokenCountTailCompressor.java
+END
+TreeHashCodeProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/prom/!svn/ver/7208/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/boudewijn/treebasedreplay/tokencount/TreeHashCodeProvider.java
+END
+AbstractTreeTailCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repos/prom/!svn/ver/7205/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/boudewijn/treebasedreplay/tokencount/AbstractTreeTailCompressor.java
+END
+FastCloneTShortArrayList.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repos/prom/!svn/ver/7084/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/boudewijn/treebasedreplay/tokencount/FastCloneTShortArrayList.java
+END

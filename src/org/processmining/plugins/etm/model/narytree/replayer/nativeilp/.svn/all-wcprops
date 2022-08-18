@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/34710/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp
+END
+NAryTreeNativeILPTail.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repos/prom/!svn/ver/11770/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/NAryTreeNativeILPTail.java
+END
+NAryTreeNativeILPDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/repos/prom/!svn/ver/25196/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/NAryTreeNativeILPDelegate.java
+END
+LpSolveExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repos/prom/!svn/ver/13348/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/LpSolveExtension.java
+END
+TestPlugins.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/TestPlugins.java
+END
+BasisHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/prom/!svn/ver/11776/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/BasisHistory.java
+END
+NAryTreeReplayerWithNativeILP.java
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repos/prom/!svn/ver/11851/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/NAryTreeReplayerWithNativeILP.java
+END
+PerformanceEval.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/prom/!svn/ver/34710/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/PerformanceEval.java
+END
+NAryTreeNativeILPTailCompressor.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/repos/prom/!svn/ver/11779/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/replayer/nativeilp/NAryTreeNativeILPTailCompressor.java
+END

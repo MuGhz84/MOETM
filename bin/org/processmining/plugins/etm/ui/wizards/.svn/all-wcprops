@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards
+END
+ETMGeneralSettingsStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/prom/!svn/ver/10225/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/ETMGeneralSettingsStep.java
+END
+ETMOperatorsSettingsStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/ETMOperatorsSettingsStep.java
+END
+ETMEvaluatorSettingsStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/prom/!svn/ver/16274/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/ETMEvaluatorSettingsStep.java
+END
+ETMParameterWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/ETMParameterWizard.java
+END
+TooltipHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/16273/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/TooltipHelper.java
+END
+ETMTerminationSettingsStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/ui/wizards/ETMTerminationSettingsStep.java
+END

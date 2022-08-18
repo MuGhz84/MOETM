@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/prom/!svn/ver/35972/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory
+END
+InductiveMinerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/35972/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory/InductiveMinerWrapper.java
+END
+TreeFactoryFlower.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/prom/!svn/ver/11886/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory/TreeFactoryFlower.java
+END
+TreeFactoryAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory/TreeFactoryAbstract.java
+END
+TreeFactoryCoordinator.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/16543/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory/TreeFactoryCoordinator.java
+END
+TreeFactoryXORofSEQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/11886/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/factory/TreeFactoryXORofSEQ.java
+END

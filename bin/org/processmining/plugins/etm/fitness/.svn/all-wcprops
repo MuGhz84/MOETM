@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness
+END
+BehaviorCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/10696/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/BehaviorCounter.java
+END
+TreeFitnessAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/28103/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeFitnessAbstract.java
+END
+TreeFitnessPropertyWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/prom/!svn/ver/11029/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeFitnessPropertyWrapper.java
+END
+TreeFitnessComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeFitnessComparator.java
+END
+FitnessRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/13181/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/FitnessRegistry.java
+END
+FitnessAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/7043/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/FitnessAnnotation.java
+END
+TreeFitnessInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/10289/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeFitnessInfo.java
+END
+AlignmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/prom/!svn/ver/9976/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/AlignmentInfo.java
+END
+TreeFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeFitness.java
+END
+RepairInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/RepairInfo.java
+END
+TreeComparatorByFitness.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/prom/!svn/ver/13496/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/fitness/TreeComparatorByFitness.java
+END

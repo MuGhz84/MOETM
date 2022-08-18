@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64
+END
+bfp_LUSOL.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/bfp_LUSOL.dll
+END
+xli_CPLEX.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/xli_CPLEX.dll
+END
+lpsolve55j.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/7322/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/lpsolve55j.dll
+END
+lpsolve55.lib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prom/!svn/ver/7322/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/lpsolve55.lib
+END
+xli_DIMACS.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/xli_DIMACS.dll
+END
+xli_MathProg.dll
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/xli_MathProg.dll
+END
+lpsolve55.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prom/!svn/ver/7322/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/lpsolve55.dll
+END
+bfp_etaPFI.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/bfp_etaPFI.dll
+END
+liblpsolve55.lib
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/prom/!svn/ver/7322/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/liblpsolve55.lib
+END
+xli_XPRESS.dll
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/xli_XPRESS.dll
+END
+xli_LINDO.dll
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/xli_LINDO.dll
+END
+bfp_GLPK.dll
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/bfp_GLPK.dll
+END
+liblpsolve55d.lib
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/prom/!svn/ver/7322/Packages/EvolutionaryTreeMiner/Trunk/locallib/win64/liblpsolve55d.lib
+END

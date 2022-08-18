@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/EvolutionaryTreeMiner/src/org/processmining/plugins/etm/experiments/CommandLineInterface.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.debug"/>
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.processmining.plugins.etm.experiments.CommandLineInterface"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="PARETO &quot;E:\ETMlocalLogs&quot; &#13;&#10;log=&quot;C:\Users\jbuijs\Documents\PhD\Projects\Small things\000Simple test logs\Published\ETM_Configuration1.xes.gz&quot;&#13;&#10;Fr=10 Pe=5 Sm=1 Gv=.1 maxGen=1000 popSize=20 eliteSize=4 limitFTime=1000 randomMutRatio=0.5 maikel=true IMfactoryWeight=0  expDate=&quot;000NOW&quot; expCode=LOCALTEST expDesc=&quot;Pareto with seed&quot; expNode=local expSession=1337  logModulo=2 seedTree=&quot;SEQ( SEQ( LEAF: A+complete , XOR( SEQ( SEQ( LEAF: B+complete , LEAF: C+complete ) , SEQ( LEAF: D+complete , LEAF: F+complete ) ) , SEQ( LEAF: C+complete , XOR( SEQ( LEAF: B+complete , LEAF: F+complete ) , SEQ( LEAF: D+complete , SEQ( LEAF: B+complete , LEAF: E+complete ) ) ) ) ) ) , LEAF: G+complete ) &quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="EvolutionaryTreeMiner"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-ea -Djava.library.path=.//lib;.//lib//64bit;.//stdlib -Xmx4G  -XX:+UseCompressedOops"/>
+<stringAttribute key="yk-options" value="&#13;&#10;additional-options2=onexit\=snapshot&#13;&#10;startup=14&#13;&#10;"/>
+</launchConfiguration>

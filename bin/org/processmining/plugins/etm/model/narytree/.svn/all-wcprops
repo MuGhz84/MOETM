@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/prom/!svn/ver/35627/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree
+END
+Simulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/24244/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/Simulator.java
+END
+TreeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/35627/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/TreeUtils.java
+END
+TreeUtilsAlignmentRepair.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/TreeUtilsAlignmentRepair.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/Configuration.java
+END
+StateBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/25198/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/StateBuilder.java
+END
+NAryTree.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/NAryTree.java
+END
+NAryTreeImplWithHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/NAryTreeImplWithHistory.java
+END
+NAryTreeHistory.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/prom/!svn/ver/35483/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/NAryTreeHistory.java
+END
+NAryTreeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/prom/!svn/ver/24413/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/NAryTreeImpl.java
+END
+StateSpace.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/7191/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/model/narytree/StateSpace.java
+END

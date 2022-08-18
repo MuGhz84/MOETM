@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/logging
+END
+EvolutionLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/logging/EvolutionLogger.java
+END
+StatisticsLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/prom/!svn/ver/16457/Packages/EvolutionaryTreeMiner/Trunk/src/org/processmining/plugins/etm/logging/StatisticsLogger.java
+END
